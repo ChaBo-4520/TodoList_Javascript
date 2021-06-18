@@ -117,7 +117,6 @@ function displayItems(option) {
       option_state = 2;
       break;
   }
-  console.log(checkbox);
   for (let i = 0; i < checkbox.length; i++) {
     if (option_state == 0) {
       // All
