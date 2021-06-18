@@ -166,7 +166,6 @@ function updateItemDescription(event) {
     const new_description = parent.querySelector(".edit-description");
     const old_description = parent.querySelector("span");
     old_description.innerText = new_description.value;
-    console.log(new_description.value);
     new_description.classList.add("display");
   }
 }
