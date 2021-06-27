@@ -1,6 +1,6 @@
 # ToDoList를 만들어보자!
 
-## [ToDoList](https://chabo-4520.github.io/TodoList_Javascript/)
+## [ToDoList](https://chabo-4520.github.io/TodoList_Javascript/) <span style="font-size:60%">👈클릭해서 사용해보세요</span>
 
 **개발기간** : 2021.06.11~12
 
